@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+  }
+
+  .navbar {
+    height: 90px;
+    font-size: 1.1rem;
+    color: blanchedalmond;
+  }
+  
+  .login {
+    margin-left: 100px;
+  }
+  .iconodetails {
+    width: 75px;
+    margin: auto;
+    text-align: center;
+  }
+
+
+.fechas img{
+    padding-top: 30px;
+margin-left: 420px;
+height: 560px;
+  }
+
+  .imagenes h2{
+    color: rgb(228, 156, 156);
+    font-size: 40px;
+    text-align: center;
+    padding-top: 50px;
+  }
+  .imagenes img {
+    display: inline-flex;
+    margin: 10px 10px 0px 60px;
+    align-items: center;
+    width: 360px;
+    height: 450px;
+  }

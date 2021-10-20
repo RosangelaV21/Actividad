@@ -1,0 +1,89 @@
+*{
+  background-color: black;
+}
+
+
+
+.logo {
+  width: 160px;
+  height: 40px;
+}
+.navbar {
+  height: 90px;
+  font-size: 1.1rem;
+  color: rgb(230, 224, 217);
+}
+
+.login {
+  margin-left: 100px;
+
+}
+.iconodetails {
+  width: 75px;
+  margin: auto;
+  text-align: center;
+  color: azure;
+}
+
+.frase{
+  margin-left: 270px;
+  width: 900px;
+  height: 250px;
+}
+
+.tituloinfo h5 {
+  color: rgb(228, 156, 156);
+  font-size: 40px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.info p {
+  color: rgb(248, 239, 239);
+  margin: 20px 50px 0px 100px;
+  width: 650px;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.info img {
+  display: flex;
+}
+
+.info {
+  display: flex;
+}
+
+.imagenes h2{
+  color: rgb(228, 156, 156);
+  font-size: 40px;
+  text-align: center;
+  padding-top: 50px;
+}
+.imagenes img {
+  display: inline-flex;
+  margin: 10px 10px 0px 25px;
+  align-items: center;
+  width: 400px;
+  height: 550px;
+}
+
+.vd h3{
+  color: rgb(228, 156, 156);
+  font-size: 40px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.inframeprincipal {
+  display: flex;
+  justify-content: center;
+}
+.videos {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px;
+  margin: 0px 0px 0px 10px;
+}
+
